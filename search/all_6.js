@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['icomponentserializer_0',['IComponentSerializer',['../interface_simple_save_1_1_services_1_1_i_component_serializer.html',1,'SimpleSave::Services']]],
+  ['id_1',['Id',['../class_simple_save_1_1_save_item.html#afecb99ce5b600a237c4126275c53b8a4',1,'SimpleSave.SaveItem.Id()'],['../class_simple_save_1_1_models_1_1_serializables_1_1_serializable_component.html#ac078da96efdfe3f9920a514a3fd2b361',1,'SimpleSave.Models.Serializables.SerializableComponent.Id()'],['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_reference.html#a2ae9e7da991727a4b5800e088c37198a',1,'SimpleSave.Models.Serializables.SerializableReference.Id()'],['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_game_info.html#a018fbd216fb2b5f1ba9107220a9d038b',1,'SimpleSave.Models.Serializables.SerializableSaveGameInfo.Id()'],['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_item.html#a2fec7f24edc80f6bab5918ac3949cfa8',1,'SimpleSave.Models.Serializables.SerializableSaveItem.Id()'],['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_var.html#ad7d30569b3b597a7cf7ba55901e10eea',1,'SimpleSave.Models.Serializables.SerializableSaveVar.Id()'],['../struct_simple_save_1_1_models_1_1_reference_info.html#a39cbcc1ff2aeb8edf35ef05fe30cbdaf',1,'SimpleSave.Models.ReferenceInfo.Id()'],['../struct_simple_save_1_1_models_1_1_save_var_info.html#a328da2156b31a2c499c85ab30499b150',1,'SimpleSave.Models.SaveVarInfo.Id()']]],
+  ['index_2',['Index',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_animator_layer.html#af9472d561508f399a2cf19da352b140a',1,'SimpleSave.Models.Serializables.SerializableAnimatorLayer.Index()'],['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_scene.html#a96ef3bd512db84ca4c155dbf99524010',1,'SimpleSave.Models.Serializables.SerializableScene.Index()']]],
+  ['info_3',['Info',['../class_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_game.html#abea712163a24e53c6f96798e4161384f',1,'SimpleSave::Models::Serializables::SerializableSaveGame']]],
+  ['iprefabinstanceprovider_4',['IPrefabInstanceProvider',['../interface_simple_save_1_1_services_1_1_i_prefab_instance_provider.html',1,'SimpleSave::Services']]],
+  ['ireferenceresolver_5',['IReferenceResolver',['../interface_simple_save_1_1_services_1_1_i_reference_resolver.html',1,'SimpleSave::Services']]],
+  ['isavegamereader_6',['ISaveGameReader',['../interface_simple_save_1_1_services_1_1_i_save_game_reader.html',1,'SimpleSave::Services']]],
+  ['isavegameserializer_7',['ISaveGameSerializer',['../interface_simple_save_1_1_services_1_1_i_save_game_serializer.html',1,'SimpleSave::Services']]],
+  ['isavegamewriter_8',['ISaveGameWriter',['../interface_simple_save_1_1_services_1_1_i_save_game_writer.html',1,'SimpleSave::Services']]],
+  ['isavevarcontroller_9',['ISaveVarController',['../interface_simple_save_1_1_services_1_1_i_save_var_controller.html',1,'SimpleSave::Services']]],
+  ['isavevarserializer_10',['ISaveVarSerializer',['../interface_simple_save_1_1_services_1_1_i_save_var_serializer.html',1,'SimpleSave::Services']]],
+  ['isimplesavecallbacks_11',['ISimpleSaveCallbacks',['../interface_simple_save_1_1_i_simple_save_callbacks.html',1,'SimpleSave']]],
+  ['isimplesavecustomserialization_12',['ISimpleSaveCustomSerialization',['../interface_simple_save_1_1_i_simple_save_custom_serialization.html',1,'SimpleSave']]],
+  ['isloadingsavegame_13',['IsLoadingSaveGame',['../class_simple_save_1_1_simple.html#a9855dc265fd46b5beb2e93b93f943573',1,'SimpleSave::Simple']]],
+  ['issavegame_14',['IsSaveGame',['../class_simple_save_1_1_simple_save_behaviour.html#ad1aec2888ae1560e83540b26afdfed20',1,'SimpleSave::SimpleSaveBehaviour']]],
+  ['isvalid_15',['IsValid',['../struct_simple_save_1_1_save_game_info.html#ab1df4efca38869546fe596b72297c613',1,'SimpleSave::SaveGameInfo']]],
+  ['itemid_16',['ItemId',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_reference.html#ac95e381f0641f5061b1be7fc3a6d0a41',1,'SimpleSave::Models::Serializables::SerializableReference']]],
+  ['items_17',['Items',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_scene.html#aee324462c5c8ad3ca8076c9645304620',1,'SimpleSave::Models::Serializables::SerializableScene']]]
+];

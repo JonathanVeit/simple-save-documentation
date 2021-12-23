@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['savegameid_0',['SaveGameId',['../struct_simple_save_1_1_models_1_1_save_game_id.html',1,'SimpleSave::Models']]],
+  ['savegameinfo_1',['SaveGameInfo',['../struct_simple_save_1_1_save_game_info.html',1,'SimpleSave']]],
+  ['savegamesettings_2',['SaveGameSettings',['../class_simple_save_1_1_save_game_settings.html',1,'SimpleSave']]],
+  ['saveitem_3',['SaveItem',['../class_simple_save_1_1_save_item.html',1,'SimpleSave']]],
+  ['saveitemid_4',['SaveItemId',['../struct_simple_save_1_1_models_1_1_save_item_id.html',1,'SimpleSave::Models']]],
+  ['saveref_5',['SaveRef',['../class_simple_save_1_1_save_ref.html',1,'SimpleSave']]],
+  ['savevar_6',['SaveVar',['../class_simple_save_1_1_save_var.html',1,'SimpleSave']]],
+  ['savevarid_7',['SaveVarId',['../struct_simple_save_1_1_models_1_1_save_var_id.html',1,'SimpleSave::Models']]],
+  ['savevarinfo_8',['SaveVarInfo',['../struct_simple_save_1_1_models_1_1_save_var_info.html',1,'SimpleSave::Models']]],
+  ['serializableanimator_9',['SerializableAnimator',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_animator.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializableanimatorlayer_10',['SerializableAnimatorLayer',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_animator_layer.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializableanimatorparameter_11',['SerializableAnimatorParameter',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_animator_parameter.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablecomponent_12',['SerializableComponent',['../class_simple_save_1_1_models_1_1_serializables_1_1_serializable_component.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablecustomdataentry_13',['SerializableCustomDataEntry',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_custom_data_entry.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablegameobjectproperty_14',['SerializableGameObjectProperty',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_game_object_property.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablereference_15',['SerializableReference',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_reference.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablesavegame_16',['SerializableSaveGame',['../class_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_game.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablesavegameinfo_17',['SerializableSaveGameInfo',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_game_info.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablesaveitem_18',['SerializableSaveItem',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_item.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablesavevar_19',['SerializableSaveVar',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_var.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializablescene_20',['SerializableScene',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_scene.html',1,'SimpleSave::Models::Serializables']]],
+  ['serializabletransform_21',['SerializableTransform',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_transform.html',1,'SimpleSave::Models::Serializables']]],
+  ['simple_22',['Simple',['../class_simple_save_1_1_simple.html',1,'SimpleSave']]],
+  ['simplesavebehaviour_23',['SimpleSaveBehaviour',['../class_simple_save_1_1_simple_save_behaviour.html',1,'SimpleSave']]]
+];
