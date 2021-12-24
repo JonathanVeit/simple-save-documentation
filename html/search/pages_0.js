@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['simplesave_0',['SimpleSave',['../index.html',1,'']]]
+  ['simple_20save_0',['Simple Save',['../index.html',1,'']]]
 ];

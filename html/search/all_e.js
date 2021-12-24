@@ -42,12 +42,13 @@ var searchData=
   ['serialize_39',['Serialize',['../interface_simple_save_1_1_i_simple_save_custom_serialization.html#acf21be013e8ead59439ab4107635d184',1,'SimpleSave.ISimpleSaveCustomSerialization.Serialize()'],['../interface_simple_save_1_1_services_1_1_i_component_serializer.html#a2388d8b85b6eb28c8da3cda0754ac613',1,'SimpleSave.Services.IComponentSerializer.Serialize()'],['../interface_simple_save_1_1_services_1_1_i_save_game_serializer.html#a4bfdce40b7da79fa9edd7a83781735a7',1,'SimpleSave.Services.ISaveGameSerializer.Serialize()'],['../interface_simple_save_1_1_services_1_1_i_save_var_serializer.html#a7c0c506efe322188bafb620fc9319eec',1,'SimpleSave.Services.ISaveVarSerializer.Serialize()']]],
   ['services_40',['Services',['../namespace_simple_save_1_1_services.html',1,'SimpleSave']]],
   ['simple_41',['Simple',['../class_simple_save_1_1_simple.html',1,'SimpleSave']]],
-  ['simplesave_42',['SimpleSave',['../index.html',1,'(Global Namespace)'],['../namespace_simple_save.html',1,'SimpleSave']]],
-  ['simplesavebehaviour_43',['SimpleSaveBehaviour',['../class_simple_save_1_1_simple_save_behaviour.html',1,'SimpleSave']]],
-  ['skiploading_44',['SkipLoading',['../namespace_simple_save_1_1_models.html#a1fb6788dbdfe97de66c8061bb5344539a0109e7dc05a1d8d5083950169d48cad1',1,'SimpleSave::Models']]],
-  ['startalways_45',['StartAlways',['../class_simple_save_1_1_simple_save_behaviour.html#a8a0cbd918e626018eedc6730533f48ab',1,'SimpleSave::SimpleSaveBehaviour']]],
-  ['startnormal_46',['StartNormal',['../class_simple_save_1_1_simple_save_behaviour.html#ad26f21334853c54587bc5dfdb7315118',1,'SimpleSave::SimpleSaveBehaviour']]],
-  ['startsavegame_47',['StartSaveGame',['../class_simple_save_1_1_simple_save_behaviour.html#ae8051217724ad1a0395cb2d3b3b52f83',1,'SimpleSave::SimpleSaveBehaviour']]],
-  ['state_48',['State',['../class_simple_save_1_1_save_item.html#a68291e7563199fee306ac1b7c6fe2ed4',1,'SimpleSave.SaveItem.State()'],['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_item.html#a6f7a0269b6fa8acf8daf810335a8a8de',1,'SimpleSave.Models.Serializables.SerializableSaveItem.State()']]],
-  ['statehash_49',['StateHash',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_animator_layer.html#a6160a6419fcbbdcb55185f291602327e',1,'SimpleSave::Models::Serializables::SerializableAnimatorLayer']]]
+  ['simple_20save_42',['Simple Save',['../index.html',1,'']]],
+  ['simplesave_43',['SimpleSave',['../namespace_simple_save.html',1,'']]],
+  ['simplesavebehaviour_44',['SimpleSaveBehaviour',['../class_simple_save_1_1_simple_save_behaviour.html',1,'SimpleSave']]],
+  ['skiploading_45',['SkipLoading',['../namespace_simple_save_1_1_models.html#a1fb6788dbdfe97de66c8061bb5344539a0109e7dc05a1d8d5083950169d48cad1',1,'SimpleSave::Models']]],
+  ['startalways_46',['StartAlways',['../class_simple_save_1_1_simple_save_behaviour.html#a8a0cbd918e626018eedc6730533f48ab',1,'SimpleSave::SimpleSaveBehaviour']]],
+  ['startnormal_47',['StartNormal',['../class_simple_save_1_1_simple_save_behaviour.html#ad26f21334853c54587bc5dfdb7315118',1,'SimpleSave::SimpleSaveBehaviour']]],
+  ['startsavegame_48',['StartSaveGame',['../class_simple_save_1_1_simple_save_behaviour.html#ae8051217724ad1a0395cb2d3b3b52f83',1,'SimpleSave::SimpleSaveBehaviour']]],
+  ['state_49',['State',['../class_simple_save_1_1_save_item.html#a68291e7563199fee306ac1b7c6fe2ed4',1,'SimpleSave.SaveItem.State()'],['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_save_item.html#a6f7a0269b6fa8acf8daf810335a8a8de',1,'SimpleSave.Models.Serializables.SerializableSaveItem.State()']]],
+  ['statehash_50',['StateHash',['../struct_simple_save_1_1_models_1_1_serializables_1_1_serializable_animator_layer.html#a6160a6419fcbbdcb55185f291602327e',1,'SimpleSave::Models::Serializables::SerializableAnimatorLayer']]]
 ];
