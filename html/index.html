@@ -87,8 +87,20 @@ Step 2: Setup the unity project.</h2>
 <li>The following ScriptableObject instances can be added to your .gitignore file: <br  />
  Assets/Simple Save/Resources/Container/SaveVarInfoContainer.asset <br  />
  Assets/Simple Save/Resources/Container/ReferenceInfoContainer.asset <br  />
- </li>
+</li>
 </ul>
+<p ><br  />
+</p>
+<h1><a class="anchor" id="bug_sec"></a>
+Known Issues</h1>
+<h2><a class="anchor" id="issue1"></a>
+Duplicated Newtonsoft.Json.dll</h2>
+<p >In case you already have a version of Newtonsoft.Json in your project, please delete the following folder in the Simple Save package:<br  />
+ Package/Simple Save/Scripts/Plugins/Assemblies</p>
+<h2><a class="anchor" id="issue2"></a>
+Empty settings.</h2>
+<p >There is a bug resulting in empty default settings after installing the package. In case this happens, please delete the the following file:<br  />
+ Assets/Simple Save/Resources/Container/SettingsContainer.asset </p>
 </div></div><!-- PageDoc -->
 </div><!-- contents -->
 <!-- start footer part -->
